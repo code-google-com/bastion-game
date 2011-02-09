@@ -2,12 +2,10 @@
 This is an overview of the project, it's goals and progress. This Wiki will be used to document the history of the project's development as well as outlining future objectives.
 
 = 1 Introduction =
-----
-Bastion places two players (or one player vs. AI) head-to-head in an all out battle for territory and conquest. One player defends his heavily fortified position against the enemy's constant siege attacks. This dichotomy of attack and defense is a pattern as old as warfare itself. And just as the great military forces of history have applied new technologies, tactics and cunning to their efforts, so will the player be tasked with the customization and renovation of his encampment. The player must adapt, manage resources wisely and perfect his tactics if he hopes to stand any chance of survival.
+*Bastion* places two players (or one player vs. AI) head-to-head in an all out battle for territory and conquest. One player defends his heavily fortified position against the enemy's constant siege attacks. This dichotomy of attack and defense is a pattern as old as warfare itself. And just as the great military forces of history have applied new technologies, tactics and cunning to their efforts, so will the player be tasked with the customization and renovation of his encampment. The player must adapt, manage resources wisely and perfect his tactics if he hopes to stand any chance of survival.
 
 
 = 2 Project Breakdown =
-----
 || *Property* || *Description* ||
 || Engine || UnrealEngine 3 ||
 || Development Tools || Unreal Development Kit ||
@@ -16,5 +14,4 @@ Bastion places two players (or one player vs. AI) head-to-head in an all out bat
 || Start Date || Feb 2011 ||
 
 = 3 Feature Set =
-----
-^ For a full list of game features and descriptions, see [GameFeatures]. ^
+^For a full list of game features and descriptions, see GameFeatures.^
