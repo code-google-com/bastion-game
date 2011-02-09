@@ -1,0 +1,19 @@
+#labels Phase-Design
+This is an overview of the project, it's goals and progress. This Wiki will be used to document the history of the project's development as well as outlining future objectives.
+
+= Introduction =
+
+Bastion places two players (or one player vs. AI) head-to-head in an all out battle for territory and conquest. One player defends his heavily fortified position against the enemy's constant siege attacks. This dichotomy of attack and defense is a pattern as old as warfare itself. And just as the great military forces of history have applied new technologies, tactics and cunning to their efforts, so will the player be tasked with the customization and renovation of his encampment. The player must adapt, manage resources wisely and perfect his tactics if he hopes to stand any chance of survival.
+
+
+= Project Breakdown =
+
+|| *Property* || *Description* ||
+|| Engine || UnrealEngine 3 ||
+|| Development Tools || Unreal Development Kit ||
+|| Genre || FPS, RTS ||
+|| Scripting Language || UnrealScript ||
+|| Start Date || Feb 2011 ||
+
+= Feature Set =
+^ For a full list of game features and descriptions, see [GameFeatures]. ^
