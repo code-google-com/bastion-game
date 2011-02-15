@@ -1,11 +1,11 @@
 #summary Explanation of the various resources which will appear in Bastion.
 #labels Phase-Design,Phase-Implementation
 
-= Brief =
+== Brief ==
 
 Resources are defined as those items with limited availability which need to be consumed in order to gain benefits from them. We take this, broadly, to encompass both the currency of Bastion, gold coinage, as well as the units and seconds of time under the player's control. In this article we will break down the reason and mechanics of Bastion's resources.
 
-= Gold =
+== Gold ==
 
 Gold is the lifeblood of your besieged fortress. Without it, you cannot barter for weapons with what few and brave caravans manage to slip past the enemy's defenses. Without it, you may not fund your infrastructure's modernization. Without it, you will be left outnumbered, out-gunned and defenseless. Due to this paramount necessity, gold is relatively easy to acquire in Bastion, but it is how the player chooses to spend it that really makes the difference in the outcome of the game. Gold can be acquired in one of several ways:
 
@@ -15,7 +15,7 @@ Gold is the lifeblood of your besieged fortress. Without it, you cannot barter f
   * Mining it directly from the earth (either personally or establishing a mine)
   * Stealing it from an enemy stockpile
 
-= Units =
+== Units ==
 
 
-= Time =
+== Time ==
