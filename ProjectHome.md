@@ -1,0 +1,1 @@
+This project page serves as an organizational tool for the development of the upcoming game Bastion. Bastion brings many new and exciting features to the world of hack-and-slash first person games! Stay tuned for more!
